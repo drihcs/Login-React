@@ -15,12 +15,12 @@ export default function App() {
           <div className="inputLogin">
             <label htmlFor="email">Email:</label>
             <input id="email" type="email" placeholder="E-mail" required="" />
-            <h5>Digite o email associado a sua conta</h5>
+            <h5>Digite o email associado a sua conta.</h5>
           </div>
           <div className="inputLogin">
             <label htmlFor="password">Senha:</label>
             <input id="password" type="password" placeholder="Senha" required="" />
-            <h5>Sua senha deve ter pelo menos 6 caracteres</h5>
+            <h5>Sua senha deve ter pelo menos 6 caracteres.</h5>
           </div>
           <div className="remember-forgot">
             <div className="remember-me">
